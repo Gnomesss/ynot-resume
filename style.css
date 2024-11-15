@@ -53,16 +53,6 @@ ul li {
     margin-bottom: 10px;
 }
 
-.project h3, .internship h3, .degree h3 {
-    font-size: 1.2rem;
-    color: #333;
-}
-
-.project p, .internship p, .degree p {
-    color: #666;
-    font-size: 0.9rem;
-}
-
 .skills ul {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
